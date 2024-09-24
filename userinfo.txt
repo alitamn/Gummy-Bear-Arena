@@ -1,0 +1,5 @@
+Name: angel
+Health: 70
+Attack: 50
+Defense: 30
+Type: Fruity Blast Bear

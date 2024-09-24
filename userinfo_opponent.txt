@@ -1,0 +1,4 @@
+Name: Sour Sentinel
+Health: 60
+Attack: 60
+Defense: 40
